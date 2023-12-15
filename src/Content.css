@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    background-color: #002e34;
+    justify-content: center;
+}
+
+.center {
+    column-count: 5;
+    width: 1200px;
+}
